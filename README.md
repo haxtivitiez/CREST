@@ -1,2 +1,2 @@
 # CREST
-Spring CRUD/w RESTFul quickstart project
+Spring CRUDw/RESTFul quickstart project
